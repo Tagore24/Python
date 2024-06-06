@@ -1,0 +1,92 @@
+PYTHON
+
+it is not used for mobile applications
+
+identifiers:
+123total
+
+true, false, if , ifelse, try, except, del, with, as, from, none and, or, not, is, else, while, for, break, continue, return, in, finally, raise, assert import, as, class,def,global,nonlocal,lamba,yield
+
+a= true - wrong
+a=True 
+
+Text Type: str
+numeric types :int,float, complex
+sequence : list, tuples, range
+mapping: dict
+set types: set, frozenset
+Boolean type:bool
+binary type: bytes, bytearray, memoryview
+
+AND
+both 1->1
+atleast1 0->0
+
+OR
+at least 1->1
+all 0->0
+
+NOT
+1->0
+0->1
+
+XOR
+Odd 1->1
+even 1->0
+all 0->0
+
+
+step-1
+a=a^b
+ =101^111
+ =010
+b=111
+
+step-2
+b=a^b
+010^111
+=101
+a=010
+
+step-3
+a=aab
+=a^b
+=010^101
+=111->7
+b=101->5
+
+OOPS-python
+
+Attributes -Variables
+Methods -Functions
+ 
+-class 
+-objects
+-methods
+-constructors
+
+CLASS
+-A class is basically an object constructor or a blueprint for an object
+-purpose:to store data and info
+-members of class defines the class
+-class is an abstract as well user defined data type
+-class cannot be seen to reveal the word but an object can be seen
+ 
+-Identifiable:shape size clr location
+-behaviour:move jump start stop
+
+Objects:
+objects get their variable and function from the class
+objects are an encapsulation of variables and functions to a single entries
+the implementation of class is object
+
+INstantiated:
+THE_Init_methon is similar to constructors in C++and java.
+it is run soo as an object of a class is instantiated.
+the method is usefull to do ANY  instialization you want to do with your object.
+
+
+
+
+
+
